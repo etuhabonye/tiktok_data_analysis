@@ -1,0 +1,14 @@
+username: //*[@id="main"]/div[2]/div[2]/div/header/div[1]/div[2]/h2
+userFollowing: //*[@id="main"]/div[2]/div[2]/div/header/h2[1]/div[1]/strong
+userFollowers: //*[@id="main"]/div[2]/div[2]/div/header/h2[1]/div[2]/strong
+userLikes: //*[@id="main"]/div[2]/div[2]/div/header/h2[1]/div[3]/strong
+userDisplayName: //*[@id="main"]/div[2]/div[2]/div/header/div[1]/div[2]/h1
+userDescription: //*[@id="main"]/div[2]/div[2]/div/header/h2[2]
+userUrl: //*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span/div/div[1]/div[1]/a[1]
+userVerified: //*[@id="main"]/div[2]/div[2]/div/header/div[1]/div[2]/h2
+postSoundtrack: //*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span/div/div[1]/div[4]/h4/a
+postDescription: //*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span/div/div[1]/div[2]
+postLikes: //*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span/div/div[1]/div[5]/div[2]/div[1]
+postComments: //*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span/div/div[1]/div[5]/div[2]/div[2]
+postShares: //*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span/div/div[1]/div[5]/div[2]/div[3]
+postDate: //*[@id="main"]/div[2]/div[2]/div/div/main/div/div[1]/span/div/div[1]/div[1]/a[2]/h4
