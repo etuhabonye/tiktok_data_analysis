@@ -1,11 +1,6 @@
----
-title: "README"
-author: "Emma Tuhabonye"
-date: "11/26/2021"
-output: html_document
----
-
 # How to Go Viral on TikTok
+
+
 ### Introduction
 Originally Musical.ly, Tiktok is a social media platform for creating, sharing and discovering short videos. It grew in popularity during the pandemic due to people being at home most of the time. With 689 million active users internationally, it is the most downloaded photo and video app in the Apple store globally.  (“What Is TikTok? ”) Simplified video creation and sharing makes it easy for users to contribute to content on the app. Videos can only be up to one minute, though recently TikTok added the ability to add up to 3 minute videos. As soon as the app opens a video will start playing, where a user can vertically scroll to engage with more content. Creators can use audio created on the app or download audio to use in their videos. A reason TikTok is so popular is the ability to duet and use other people’s sound. For individual creators, becoming famous on TikTok heavily depends on other people using one’s sound. Many times when people start using a sound, this starts a trend that traces back to the original creator. We were inspired to do this project because of how quickly people grew on the app compared to other apps we have seen. We investigate TikTok’s data for tendencies among popular posts and users.
 ### Data Collection
